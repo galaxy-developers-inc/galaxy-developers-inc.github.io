@@ -1,0 +1,273 @@
+{
+  "market_size_data": {
+    "ai_recruitment_market": {
+      "2024": "$596-707 million",
+      "2025": "$617-752 million",
+      "2030": "$860-1,390 million",
+      "2035": "$1,053-1,390 million",
+      "cagr": "6.9-7.63%",
+      "sources": [
+        "Mordor Intelligence",
+        "Research Nester",
+        "Future Market Insights"
+      ]
+    },
+    "video_interview_market": {
+      "2024": "$511-1,200 million",
+      "2025": "$1,200 million",
+      "2030": "$891-4,300 million",
+      "2033": "$3,500-5,400 million",
+      "cagr": "12.5-18.4%",
+      "sources": [
+        "Verified Market Reports",
+        "Market Intelo",
+        "The Insight Partners"
+      ]
+    },
+    "recruiting_automation_market": {
+      "2025": "$549.2 million",
+      "2035": "$716.8 million",
+      "cagr": "2.7%",
+      "source": "Future Market Insights"
+    }
+  },
+  "adoption_statistics": {
+    "current_adoption": {
+      "companies_using_ai_recruitment": "67%",
+      "enterprise_adoption": "78%",
+      "recruiters_interested_2024": "88%",
+      "expected_adoption_2025": "60%+",
+      "fortune_500_chro_using_ai": "93%",
+      "source": "SHRM, LinkedIn, Gallup"
+    },
+    "productivity_gains": {
+      "faster_hiring": "25-60%",
+      "quality_improvement": "50%",
+      "recruiter_productivity": "54%",
+      "time_to_hire_reduction": "31-75%",
+      "cost_per_hire_reduction": "33%"
+    },
+    "accuracy_metrics": {
+      "resume_parsing_accuracy": "94%",
+      "skill_matching_accuracy": "89%",
+      "job_performance_prediction": "78%",
+      "retention_prediction": "83%",
+      "bias_reduction": "56-61%"
+    }
+  },
+  "key_trends": {
+    "1_ai_automation": "Автоматизация скрининга резюме, генерация вопросов, оценка кандидатов",
+    "2_video_interviews": "Асинхронные видео интервью с AI анализом речи и поведения",
+    "3_antifraud_detection": "Deepfake detection, биометрия, мониторинг IP/устройств",
+    "4_cloud_adoption": "78.5% рынка - облачные решения (масштабируемость)",
+    "5_bias_reduction": "AI для снижения предвзятости в найме (diversity hiring)",
+    "6_predictive_analytics": "Прогнозирование успешности кандидата и retention",
+    "7_chatbots": "Conversational AI для коммуникации с кандидатами 24/7"
+  },
+  "target_segments": {
+    "by_size": {
+      "large_enterprises": {
+        "market_share_2024": "57.91%",
+        "needs": "Масштабирование, compliance, интеграция с HRIS",
+        "budget": "High ($35k-$100k+ annually)"
+      },
+      "sme": {
+        "cagr": "10.20%",
+        "needs": "Доступность, простота внедрения, SaaS модель",
+        "budget": "Medium ($1k-$25k annually)"
+      }
+    },
+    "by_industry": {
+      "it_telecom": {
+        "share_2024": "29.24%",
+        "reason": "Early adopters, tech-savvy"
+      },
+      "healthcare": {
+        "cagr": "13.30%",
+        "reason": "Кадровый дефицит, верификация лицензий"
+      },
+      "bfsi": "Compliance, volume hiring",
+      "retail": "High-volume hourly workers",
+      "manufacturing": "Technical skills validation"
+    },
+    "by_geography": {
+      "russia_cis": {
+        "platform": "hh.ru (крупнейшая платформа)",
+        "advantage": "Локализация, интеграция с hh.ru API",
+        "compliance": "Хранение данных в РФ"
+      },
+      "global": {
+        "fastest_growing": "Asia-Pacific (19.60% CAGR)",
+        "mature_markets": "North America, Europe"
+      }
+    }
+  },
+  "competitive_landscape": {
+    "major_players": {
+      "HireVue": {
+        "funding": "$93 million",
+        "pricing": "$35k-$100k+ annually",
+        "strengths": [
+          "AI video analysis",
+          "Enterprise scale",
+          "1/3 Fortune 100"
+        ],
+        "weaknesses": [
+          "Expensive",
+          "Bias concerns",
+          "US-focused"
+        ]
+      },
+      "Pymetrics": {
+        "funding": "$56.6 million",
+        "acquired": "August 2022",
+        "strengths": [
+          "Gamified assessment",
+          "Bias reduction",
+          "Neuroscience-based"
+        ],
+        "weaknesses": [
+          "Acquired (integration risk)",
+          "Limited standalone video"
+        ]
+      },
+      "Paradox": {
+        "pricing": "$1k-$100k annually",
+        "strengths": [
+          "Chatbot AI",
+          "High-volume hiring",
+          "Mobile-first"
+        ],
+        "weaknesses": [
+          "Less focus on video interviews"
+        ]
+      },
+      "Talview": {
+        "strengths": [
+          "Interview proctoring",
+          "Deepfake detection",
+          "Anti-fraud"
+        ],
+        "market": "Global + enterprise"
+      }
+    },
+    "russian_market": {
+      "dominant_platform": "hh.ru (HeadHunter)",
+      "talantix": "CRM от hh.ru с API интеграцией",
+      "competitors": "Немногочисленные локальные решения",
+      "opportunity": "Недостаток AI-powered решений в РФ"
+    }
+  },
+  "monetization_models": {
+    "saas_subscription": {
+      "model": "Annual/monthly licenses",
+      "tiers": "Basic, Professional, Enterprise",
+      "pricing_examples": [
+        "HireVue: $35k+ annually",
+        "Paradox: $1k-$25k/month",
+        "Beamery: $75/user/month"
+      ],
+      "pros": "Predictable revenue, easy scaling",
+      "cons": "Lower initial revenue, churn risk"
+    },
+    "usage_based": {
+      "model": "Pay per interview/candidate/API call",
+      "metrics": [
+        "Per video interview conducted",
+        "Per candidate screened",
+        "Per AI analysis/transcription",
+        "API calls/tokens"
+      ],
+      "pros": "Aligns cost with value, attractive for SMEs",
+      "cons": "Revenue volatility, hard to forecast"
+    },
+    "hybrid": {
+      "model": "Base subscription + usage overages",
+      "example": "Monthly base + additional interviews beyond quota",
+      "pros": "Revenue stability + upside from power users",
+      "cons": "Complex pricing, requires good analytics"
+    },
+    "outcome_based": {
+      "model": "Pay for results (hires made, quality of hire)",
+      "metrics": [
+        "Per successful hire",
+        "Revenue share from time saved",
+        "Performance guarantees"
+      ],
+      "pros": "Ultimate value alignment, competitive differentiator",
+      "cons": "Attribution complexity, revenue risk"
+    },
+    "freemium": {
+      "model": "Free basic features, paid advanced",
+      "free_tier": "Limited interviews/month, basic analytics",
+      "paid_tier": "Unlimited, AI analysis, integrations, antifraud",
+      "pros": "User acquisition, viral growth",
+      "cons": "Conversion challenges, support costs"
+    },
+    "professional_services": {
+      "model": "Implementation, training, custom development",
+      "revenue_streams": [
+        "Setup and integration fees",
+        "Training and onboarding",
+        "Custom AI model training",
+        "Premium support SLAs"
+      ]
+    }
+  },
+  "recommended_strategy": {
+    "positioning": "AI-powered recruitment automation с российской локализацией и hh.ru интеграцией",
+    "differentiation": [
+      "Глубокая интеграция с hh.ru (крупнейшая платформа РФ/СНГ)",
+      "Хранение данных в РФ (compliance)",
+      "Антифрод система (включая deepfake detection)",
+      "AI оценка softskills + hardskills",
+      "Полный цикл: создание вакансии → публикация → скрининг → интервью → аналитика"
+    ],
+    "target_market_priority": [
+      "1. Средний бизнес РФ/СНГ (50-500 сотрудников) с активным наймом",
+      "2. Enterprise клиенты с volume hiring (retail, call-centers, tech)",
+      "3. Рекрутинговые агентства",
+      "4. Международные компании с офисами в РФ/СНГ"
+    ],
+    "pricing_recommendation": {
+      "model": "Hybrid SaaS + Usage-based",
+      "tiers": {
+        "starter": {
+          "price": "30,000-50,000 ₽/month",
+          "includes": "До 50 интервью/мес, базовая аналитика, 1 интеграция",
+          "target": "SMB, до 100 сотрудников"
+        },
+        "professional": {
+          "price": "100,000-200,000 ₽/month",
+          "includes": "До 200 интервью, AI скоринг, hh.ru интеграция, антифрод",
+          "target": "Средний бизнес, 100-500 сотрудников"
+        },
+        "enterprise": {
+          "price": "От 300,000 ₽/month + custom",
+          "includes": "Unlimited, on-premise опция, кастомизация, SLA",
+          "target": "Крупный бизнес, 500+ сотрудников"
+        }
+      },
+      "additional_revenue": [
+        "Перерасход интервью: 200-500 ₽ за интервью",
+        "Professional services: 150,000-500,000 ₽ setup",
+        "AI model training: 200,000-1,000,000 ₽",
+        "Premium support: +20-30% от subscription"
+      ]
+    }
+  },
+  "market_validation": {
+    "pain_points_validated": [
+      "60% времени HR уходит на первичный скрининг (решено AI)",
+      "75% кандидатов не получают обратную связь (решено автоответами)",
+      "Мошенничество на интервью растет (решено антифрод системой)",
+      "Сложность масштабирования найма (решено автоматизацией)"
+    ],
+    "customer_willingness_to_pay": {
+      "time_saved": "60% экономии времени рекрутера = 40-60 часов/месяц",
+      "cost_justification": "Зарплата рекрутера 100k₽/мес → экономия 40-60k₽",
+      "roi_period": "3-6 месяцев",
+      "quality_improvement": "50% улучшение quality of hire → долгосрочная экономия"
+    }
+  }
+}
