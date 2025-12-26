@@ -5,9 +5,9 @@ import albertPhoto from "@/assets/albert.jpg";
 const Team = () => {
   const team = [
     {
-      name: "Павел",
+      name: "Данила",
       role: "Co-Founder & Tech Architect",
-      photo: pavelPhoto,
+      photo: danilaPhoto,
       description: "Системный архитектор с опытом построения масштабируемых решений",
       speciality: "Backend & Infrastructure"
     },
@@ -37,10 +37,10 @@ const Team = () => {
           </div>
           
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Альберт и Паша
+            Альберт и Данила
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Два инженера, которые превратили <span className="text-accent font-semibold">AI в производственный конвейер</span>
+            Два инженера-самоучки, которые превратили <span className="text-accent font-semibold">AI в производственный конвейер</span>
           </p>
         </div>
 
